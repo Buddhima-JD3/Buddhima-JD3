@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ![Buddhima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Buddhima-JD3&show_icons=true&theme=chartreuse-dark)
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nwnjwgnzl3mhwzmg5fb4t2lst&count={3})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nwnjwgnzl3mhwzmg5fb4t2lst&count=1<={count}<=10)
 
 
