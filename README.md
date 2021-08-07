@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Buddhima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Buddhima-JD3&show_icons=true&theme=chartreuse-dark)
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics](https://metrics.lecoq.io/Raymo111?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/Buddhima-JD3?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nwnjwgnzl3mhwzmg5fb4t2lst&count=3&width=500)
 
