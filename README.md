@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 ### My Metrics :
 ![Metrics](https://metrics.lecoq.io/Buddhima-JD3?template=classic&config.timezone=Asia%2FColombo)
 
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+
 ### Languages :
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
