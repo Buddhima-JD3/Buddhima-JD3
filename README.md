@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 ![Buddhima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Buddhima-JD3&show_icons=true&theme=chartreuse-dark)
 
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+### My Metrics :
 ![Metrics](https://metrics.lecoq.io/Buddhima-JD3?template=classic&config.timezone=Asia%2FColombo)
 
 
 ### Languages :
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-<!---![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)--->
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
