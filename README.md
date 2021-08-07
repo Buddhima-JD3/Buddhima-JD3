@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Buddhima, software engineering undergraduate from <img src="https://www.flaticon.com/free-icon/sri-lanka_202863?" width="13"/> </p>
+<p>Welcome to my page! </br> I'm Buddhima, software engineering undergraduate from <img src="https://www.flaticon.com/free-icon/sri-lanka_202863" width="13"/> </p>
 <h3>Things I code with</h3>
 
 <!--
@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 ### My Metrics :
 ![Metrics](https://metrics.lecoq.io/Buddhima-JD3?template=classic&config.timezone=Asia%2FColombo)
 
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
 ### Languages :
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
