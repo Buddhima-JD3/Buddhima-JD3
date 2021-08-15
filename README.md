@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nwnjwgnzl3mhwzmg5fb4t2lst&count=3&width=475)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nwnjwgnzl3mhwzmg5fb4t2lst&count=1&width=475)
 
 
