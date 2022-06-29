@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   
 ![Buddhima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Buddhima-JD3&show_icons=true&theme=chartreuse-dark) 
 <a href="https://github.com/Buddhima-JD3">
-<img height="194px" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhima-JD3&text_color=FFFFFF&bg_color=000000&title_color=7fff00&langs_count=15&layout=compact&border_color=FFFFF"/>
+<img height="200px" width="347" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhima-JD3&text_color=FFFFFF&bg_color=000000&title_color=7fff00&langs_count=15&layout=compact&border_color=FFFFF"/>
 </a>
 
 <a href="https://app.daily.dev/BJD3"><img src="https://github.com/Buddhima-JD3/Buddhima-JD3/blob/main/devcard.svg" width="300" alt="Buddhima's Dev Card"/></a>
