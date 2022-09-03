@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </p>
 
   
-<img src="https://camo.githubusercontent.com/0c31265dd4be88e35caa2aa35647dda5dd54b8e9942b8078151c872ef5defefa/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4275646468696d612d4a44332673686f775f69636f6e733d74727565267468656d653d636861727472657573652d6461726b" alt="Buddhima's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Buddhima-JD3&amp;show_icons=true&amp;theme=chartreuse-dark" style="max-width: 88%;" height="190px">
+![Buddhima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Buddhima-JD3&show_icons=true&theme=chartreuse-dark)
 <img height="190px" width="347px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhima-JD3&text_color=FFFFFF&bg_color=000000&title_color=7fff00&langs_count=15&layout=compact&border_color=FFFFF"/>
 
 <a href="https://app.daily.dev/BJD3"><img src="https://github.com/Buddhima-JD3/Buddhima-JD3/blob/main/devcard.svg" width="250" alt="Buddhima's Dev Card"/></a>
